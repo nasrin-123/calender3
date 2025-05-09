@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Meeting with team",
+    "description": "Discuss project updates",
+    "day": "2025-05-10",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "blue"
+  },
+  {
+    "title": "Doctor Appointment",
+    "description": "Annual checkup",
+    "day": "2025-05-10",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "green"
+  },
+  {
+    "title": "hp Appointment",
+    "description": "Annual checkup",
+    "day": "2025-05-11",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "green"
+  }
+]
+
+  
